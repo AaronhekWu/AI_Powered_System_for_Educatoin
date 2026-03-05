@@ -4,7 +4,7 @@
 
 前端团队负责构建五个核心业务模块的用户界面：财务管理仪表板、市场营销CRM系统、教学学习平台、内容运营系统和招生转化管理。
 
-前端采用**React 18 + TypeScript + Redux Toolkit + Ant Design Pro**的现代技术栈，支持Web和移动跨平台应用。前端团队规模为5-6人，分别负责不同业务模块的UI/UX设计与实现。
+前端采用**React 18 + TypeScript + Redux Toolkit + Ant Design Pro**的现代技术栈，支持Web和移动跨平台应用, 不同业务模块的UI/UX设计与实现。
 
 ---
 
